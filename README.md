@@ -1,7 +1,2 @@
 # FullStack Social Media App
-Complete React MERN Full Stack Social Media App
-
-
-For users who are looking to contribute, I'm planning to possibly create a separate branch for community contributions and additional features as well as for improvements and fixes.
-
-I haven't decided on the exact workflow I'll be using yet. But we'll get it out there soon!
+![Screenshot 2023-03-15 235141](https://user-images.githubusercontent.com/75990851/225420730-19d65bc8-c4fb-487f-b96a-b4b89ea28db0.png)
